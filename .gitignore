@@ -1,6 +1,7 @@
 # Folders
 .venv
+secrets
 
 
 # Files
-kaggle.json
+# kaggle.json
