@@ -3,7 +3,7 @@
 .env
 secrets
 logs
-
-
+data
 # Files
-# kaggle.json
+kaggle.json
+*.csv
