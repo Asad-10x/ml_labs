@@ -1,6 +1,8 @@
 # Folders
 .venv
+.env
 secrets
+logs
 
 
 # Files
